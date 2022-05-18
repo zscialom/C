@@ -1,0 +1,8 @@
+jalon3 (intégralité de ce jalon implémenté ainsi que des précédents)
+
+ongoing4 : Dans le jalon 4, FILE_REQUEST, FILE_ACCEPT et FILE_REJECT ont été implémentés et fonctionnent. J'ai avancé FILE_SEND mais je n'ai pas réussi à l'implémenter entièrement (il semble que j'essaye de me connecter au mauvais port lorsque qu'un de mes clients fait aussi office de serveur).
+
+Mes fichiers server et clients pour le rendu se trouvent dans samplejalon2 . 
+Merci, 
+
+Scialom Zachary T2
